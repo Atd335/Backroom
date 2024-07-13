@@ -1,0 +1,70 @@
+{
+    "catalog":[
+        {
+            "category": "backroomsBest",
+            "comics":[
+                "TeccaMana",
+                "FlyMan",
+                "CenturionKickStart",
+                "LugnutOrigin",
+                "HumanEar"
+            ]
+        },
+        {
+            "category": "comicProto",
+            "comics":[
+                "KGSProto",
+                "BloodWaterProto",
+                "StarRacerProto"
+            ]
+        },
+        {
+            "category": "graphicNovels",
+            "comics":[
+                "TeccaMana",
+                "CenturionKickStart"
+            ]
+        },
+        {
+            "category": "mustachio",
+            "comics":[
+                "MustachioNo.1",
+                "MustachioOrigin",
+                "LugnutOrigin",
+                "LugnutChristmas"
+            ]
+        },
+        {
+            "category": "centurion",
+            "comics":[
+                "CenturionOrigin",
+                "CenturionKickStart"
+            ]
+        },
+        {
+            "category": "oneOffs",
+            "comics":[
+                "FlyMan",
+                "HumanEar",
+                "Armstrong"
+            ]
+        },
+        {
+            "category": "origins",
+            "comics":[
+                "CenturionOrigin",
+                "MustachioOrigin",
+                "LugnutOrigin",
+                "FloraOrigin",
+                "SpecterOrigin",
+                "HellhoundOrigin"
+            ]
+        },
+        {
+            "category": "misc",
+            "comics":[
+                "KyleMoments"
+            ]
+        }
+    ]
+}
