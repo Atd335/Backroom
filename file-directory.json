@@ -753,6 +753,9 @@
           "0f": {
             "type": "directory",
             "contents": {
+              "0b30828af49bd203de2e3bf58706bc677f4908": {
+                "type": "file"
+              },
               "c2cbeb3ebc43c9f4c9b54d262830551a3e40ed": {
                 "type": "file"
               },
@@ -1087,6 +1090,9 @@
             "type": "directory",
             "contents": {
               "694729c37faf215f2e3887851f57c4acce82b3": {
+                "type": "file"
+              },
+              "88dbbeeb4999066e45bd4851363e5b7b2594af": {
                 "type": "file"
               },
               "d187329bebe9db7432a809bc296704be3a5670": {
@@ -1494,6 +1500,9 @@
           "e1": {
             "type": "directory",
             "contents": {
+              "a45eb4189209dab9174999c3b30916e0d4f07f": {
+                "type": "file"
+              },
               "b7ee153f84ccf83bc79029a6c448f88ecc13b3": {
                 "type": "file"
               },
@@ -1859,8 +1868,37 @@
       "MustachioOrigin": {
         "type": "directory",
         "contents": {
-          "MetaData.json": {
-            "type": "file"
+          "Pages": {
+            "type": "directory",
+            "contents": {
+              "0.jpg": {
+                "type": "file"
+              },
+              "1.jpg": {
+                "type": "file"
+              },
+              "2.jpg": {
+                "type": "file"
+              },
+              "3.jpg": {
+                "type": "file"
+              },
+              "4.jpg": {
+                "type": "file"
+              },
+              "5.jpg": {
+                "type": "file"
+              },
+              "6.jpg": {
+                "type": "file"
+              },
+              "7.jpg": {
+                "type": "file"
+              },
+              "8.jpg": {
+                "type": "file"
+              }
+            }
           }
         }
       },
@@ -2577,35 +2615,7 @@
       },
       "Origins_Mustachio": {
         "type": "directory",
-        "contents": {
-          "0.jpg": {
-            "type": "file"
-          },
-          "1.jpg": {
-            "type": "file"
-          },
-          "2.jpg": {
-            "type": "file"
-          },
-          "3.jpg": {
-            "type": "file"
-          },
-          "4.jpg": {
-            "type": "file"
-          },
-          "5.jpg": {
-            "type": "file"
-          },
-          "6.jpg": {
-            "type": "file"
-          },
-          "7.jpg": {
-            "type": "file"
-          },
-          "8.jpg": {
-            "type": "file"
-          }
-        }
+        "contents": {}
       },
       "Origins_Specter": {
         "type": "directory",
