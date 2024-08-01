@@ -373,6 +373,9 @@
           "55": {
             "type": "directory",
             "contents": {
+              "1082e5fe9cc1a31f7f52a981c21c9fedbc3d8b": {
+                "type": "file"
+              },
               "ee0fd8e82e9553c4cc0e4532e63cd0c89e191b": {
                 "type": "file"
               }
@@ -462,6 +465,9 @@
           "68": {
             "type": "directory",
             "contents": {
+              "0519c31a35126f2271c080070a594b51ec3cb1": {
+                "type": "file"
+              },
               "251a3a40a1c5883664168276fada4efd5448e0": {
                 "type": "file"
               },
@@ -1185,6 +1191,9 @@
           "a3": {
             "type": "directory",
             "contents": {
+              "5dbb1594ea08a08a97f0047cfd2b6b9ddca38a": {
+                "type": "file"
+              },
               "b1d3a38758c4c62e21f96d8ff98c64d8fd4a50": {
                 "type": "file"
               },
@@ -1416,6 +1425,9 @@
             "contents": {
               "349ace60cdad0005da2101304fcc14f097a64a": {
                 "type": "file"
+              },
+              "fc73b875419994b7cd633b78b93a9ab5e4d19d": {
+                "type": "file"
               }
             }
           },
@@ -1423,6 +1435,14 @@
             "type": "directory",
             "contents": {
               "57e2a15f1aaaa754c96659a8a8b5a96dec24b0": {
+                "type": "file"
+              }
+            }
+          },
+          "cb": {
+            "type": "directory",
+            "contents": {
+              "06993e420ec931c507e65e46a1cee5a8f4c5c5": {
                 "type": "file"
               }
             }
@@ -1804,6 +1824,9 @@
           }
         }
       },
+      "CatalogueMetaData.json": {
+        "type": "file"
+      },
       "CenturionKickStart": {
         "type": "directory",
         "contents": {
@@ -1906,6 +1929,9 @@
       "MustachioOrigin": {
         "type": "directory",
         "contents": {
+          "Mustachio Origins.jpg": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
             "contents": {
