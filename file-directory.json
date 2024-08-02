@@ -395,6 +395,9 @@
           "58": {
             "type": "directory",
             "contents": {
+              "2c449ee25eda809635bb46b0e866690e0d7e41": {
+                "type": "file"
+              },
               "a35160f22a26a1dc2ad17fd413b6f5944acf29": {
                 "type": "file"
               }
@@ -886,6 +889,14 @@
               }
             }
           },
+          "3d": {
+            "type": "directory",
+            "contents": {
+              "d6e62f805fa27d3b99bb7f9c993cbf9a6de655": {
+                "type": "file"
+              }
+            }
+          },
           "3f": {
             "type": "directory",
             "contents": {
@@ -1297,6 +1308,9 @@
               },
               "c7afbf7f248c54a937d77d811dbf485a2703d7": {
                 "type": "file"
+              },
+              "df484c9dcec1cab270aa797b08f3b891f40346": {
+                "type": "file"
               }
             }
           },
@@ -1321,6 +1335,14 @@
                 "type": "file"
               },
               "e5847ebaea1ab8ffc0b4607e6d1ca350588fcc": {
+                "type": "file"
+              }
+            }
+          },
+          "b7": {
+            "type": "directory",
+            "contents": {
+              "a51a81f90b2cda47acb3e68f84597e40347ef6": {
                 "type": "file"
               }
             }
@@ -1493,6 +1515,9 @@
           "d9": {
             "type": "directory",
             "contents": {
+              "48ce255a8d03dcf4906ba3f113cb5ab3ac695c": {
+                "type": "file"
+              },
               "9e1ad7524d4a101f5b1c692cb2ece59accda11": {
                 "type": "file"
               }
@@ -1663,6 +1688,14 @@
               }
             }
           },
+          "f0": {
+            "type": "directory",
+            "contents": {
+              "905134eef46b4332a6654f2e9e09ac8ede7279": {
+                "type": "file"
+              }
+            }
+          },
           "f1": {
             "type": "directory",
             "contents": {
@@ -1824,10 +1857,10 @@
           }
         }
       },
-      "CatalogueMetaData.json": {
+      "CatalogCategories.json": {
         "type": "file"
       },
-      "CenturionKickStart": {
+      "CenturionKickStarter": {
         "type": "directory",
         "contents": {
           "Pages": {
