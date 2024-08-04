@@ -79,6 +79,14 @@
       "objects": {
         "type": "directory",
         "contents": {
+          "10": {
+            "type": "directory",
+            "contents": {
+              "2def356a8e57201f35f0788131ad6a06e2d215": {
+                "type": "file"
+              }
+            }
+          },
           "11": {
             "type": "directory",
             "contents": {
@@ -163,6 +171,14 @@
               }
             }
           },
+          "20": {
+            "type": "directory",
+            "contents": {
+              "59783c359f7044dcf087669fd879e12c137042": {
+                "type": "file"
+              }
+            }
+          },
           "23": {
             "type": "directory",
             "contents": {
@@ -217,6 +233,9 @@
               },
               "c02137a1ffb61f971051e93f1971cabf228378": {
                 "type": "file"
+              },
+              "ee4ab3b821082b387a2dd33199dbe227f5fa0e": {
+                "type": "file"
               }
             }
           },
@@ -224,6 +243,17 @@
             "type": "directory",
             "contents": {
               "2456ce0f7976093d0f772989077bedc675f39e": {
+                "type": "file"
+              },
+              "fb756d14261a49ab062685ac2060a037481754": {
+                "type": "file"
+              }
+            }
+          },
+          "31": {
+            "type": "directory",
+            "contents": {
+              "ea651708d997d7f0a68cbdad6855e02e660502": {
                 "type": "file"
               }
             }
@@ -305,6 +335,9 @@
               },
               "a19e74dbb94e40bb88cae80a030cd88c8863ff": {
                 "type": "file"
+              },
+              "a420d1311290e10a327721267e1ae62590b001": {
+                "type": "file"
               }
             }
           },
@@ -332,6 +365,17 @@
             "contents": {
               "42eb9847b4a54c3975d4264a5f30b39d334a66": {
                 "type": "file"
+              },
+              "d9a4c7d6188fa4b9b4ee629b36a6eab47bc1bd": {
+                "type": "file"
+              }
+            }
+          },
+          "47": {
+            "type": "directory",
+            "contents": {
+              "92e9c31be1b42ef0fb95ade3b7f13c2a8d9f57": {
+                "type": "file"
               }
             }
           },
@@ -357,6 +401,9 @@
           "50": {
             "type": "directory",
             "contents": {
+              "3a94e454948ba9118bd4e20825661faf997a95": {
+                "type": "file"
+              },
               "be3d7b3922735935002248688737ad2ad9d4b9": {
                 "type": "file"
               }
@@ -396,6 +443,14 @@
                 "type": "file"
               },
               "5f16b53ef69f495116083a9c0368b8899d71f1": {
+                "type": "file"
+              }
+            }
+          },
+          "57": {
+            "type": "directory",
+            "contents": {
+              "673d75fd19fc088127762c3875905b21796949": {
                 "type": "file"
               }
             }
@@ -441,6 +496,12 @@
           "63": {
             "type": "directory",
             "contents": {
+              "4a846a025cba4dfe20b06ac810060d9b420fc0": {
+                "type": "file"
+              },
+              "81740d1b6358fbf23c3f1fd5fcdf2b8dec6d29": {
+                "type": "file"
+              },
               "e0eaaf8b7a5cfb38008026eaaaeef2e0b5739c": {
                 "type": "file"
               }
@@ -452,7 +513,13 @@
               "1ed130fa3aa4738ba2048fc81790334eb28877": {
                 "type": "file"
               },
+              "3c856f92e66fe71509ec254b4c79e70eeee2fe": {
+                "type": "file"
+              },
               "e1647246a08ec5646515d54fd534b5483f8ad8": {
+                "type": "file"
+              },
+              "ee175be70b73c56fa7ba737fdf6c5a3a84a067": {
                 "type": "file"
               }
             }
@@ -460,6 +527,12 @@
           "65": {
             "type": "directory",
             "contents": {
+              "1f2409069377cf261addc1d1acca77fd6dedf0": {
+                "type": "file"
+              },
+              "72b5469301d75c71eb4f057013fe939e1e3924": {
+                "type": "file"
+              },
               "e8b6a91b9fc0cfe17f20ecb1e53216cca7aef9": {
                 "type": "file"
               }
@@ -483,6 +556,14 @@
                 "type": "file"
               },
               "b0524ebff92236dd58f56b167e5928ae9d8451": {
+                "type": "file"
+              }
+            }
+          },
+          "69": {
+            "type": "directory",
+            "contents": {
+              "78d1d0b0af1c286bd4583ec3d5790ee310c24b": {
                 "type": "file"
               }
             }
@@ -560,6 +641,9 @@
             "contents": {
               "483e84a489970ca7cf9bd7d44690ab171ca780": {
                 "type": "file"
+              },
+              "b68344a0e1a89c6cf8c5eeb55a76e08d089806": {
+                "type": "file"
               }
             }
           },
@@ -599,6 +683,9 @@
               "1d0a1bd1ef8bd8c74667bee1b9babfb1abb0d9": {
                 "type": "file"
               },
+              "463e8f42b3f8611bbdbddb4cfcf6a85bf19174": {
+                "type": "file"
+              },
               "87ceef69daf577c93b0727a31456067e2b1be9": {
                 "type": "file"
               }
@@ -629,9 +716,23 @@
               }
             }
           },
+          "92": {
+            "type": "directory",
+            "contents": {
+              "207bff4bea4c809845372144dd678a241b4f02": {
+                "type": "file"
+              }
+            }
+          },
           "93": {
             "type": "directory",
             "contents": {
+              "44d21db932905a1884fa7665b841e33e348c05": {
+                "type": "file"
+              },
+              "5d4da1c287f266bbf03a7a2d8a067af2e57fa7": {
+                "type": "file"
+              },
               "8eeeaf5b2ba73aac656b513a123e565e0c8fca": {
                 "type": "file"
               },
@@ -643,6 +744,9 @@
           "94": {
             "type": "directory",
             "contents": {
+              "05bb2786fed9a6440f88fa149be5ddec0ee999": {
+                "type": "file"
+              },
               "b3c859a576b217fd6df60f19e1e76a98e11585": {
                 "type": "file"
               },
@@ -675,6 +779,17 @@
               }
             }
           },
+          "98": {
+            "type": "directory",
+            "contents": {
+              "33e88036613c8ed792cf4b8c55cbc72e48da41": {
+                "type": "file"
+              },
+              "a977b17b26e92eb8428ab85a22ab861b47c12f": {
+                "type": "file"
+              }
+            }
+          },
           "99": {
             "type": "directory",
             "contents": {
@@ -690,6 +805,9 @@
             "type": "directory",
             "contents": {
               "050cab2d9ff36bea06582088294e3760a0adb8": {
+                "type": "file"
+              },
+              "78a66942bb7ab4fafadc5a4acdd55f55a3d23b": {
                 "type": "file"
               }
             }
@@ -927,6 +1045,14 @@
               }
             }
           },
+          "4b": {
+            "type": "directory",
+            "contents": {
+              "bdcaee1f2d5ff114d47becb408582cee671baa": {
+                "type": "file"
+              }
+            }
+          },
           "4c": {
             "type": "directory",
             "contents": {
@@ -960,6 +1086,14 @@
               }
             }
           },
+          "4f": {
+            "type": "directory",
+            "contents": {
+              "dc882a5d8347b08528ec9453c4ede41d1d7e91": {
+                "type": "file"
+              }
+            }
+          },
           "5a": {
             "type": "directory",
             "contents": {
@@ -977,9 +1111,20 @@
               }
             }
           },
+          "5c": {
+            "type": "directory",
+            "contents": {
+              "0e138c2ee362b72784f74f9d15d11517046c5c": {
+                "type": "file"
+              }
+            }
+          },
           "5d": {
             "type": "directory",
             "contents": {
+              "4a60e06d30ea11c48154303cccdbe7278e352d": {
+                "type": "file"
+              },
               "ed63cc9f1f7eb41162b07dbaa5e2cdfc22fb6f": {
                 "type": "file"
               }
@@ -1108,6 +1253,14 @@
               }
             }
           },
+          "8b": {
+            "type": "directory",
+            "contents": {
+              "24b5d81f147379aa2173033a96553951d9e365": {
+                "type": "file"
+              }
+            }
+          },
           "8c": {
             "type": "directory",
             "contents": {
@@ -1168,6 +1321,9 @@
               },
               "58ea42e7ee3ff33c67b8e8e667483cfd2c0558": {
                 "type": "file"
+              },
+              "6b41e46fd4f1c99d3908697b8672436dd63cba": {
+                "type": "file"
               }
             }
           },
@@ -1182,6 +1338,9 @@
           "9f": {
             "type": "directory",
             "contents": {
+              "48c81ce445a124cf0dd5eb821f75ddd3878eff": {
+                "type": "file"
+              },
               "effca0e1b52313f533ed561c363adba441fcf4": {
                 "type": "file"
               }
@@ -1296,6 +1455,9 @@
             "contents": {
               "cb405f2a0621c6d804d95a0e389e1f3f9c5ee0": {
                 "type": "file"
+              },
+              "d75e8d51ae73500f6f0fc88bd09c34583fb31c": {
+                "type": "file"
               }
             }
           },
@@ -1317,6 +1479,14 @@
                 "type": "file"
               },
               "ca4e37716ca556ca25850e2ace0c832276280a": {
+                "type": "file"
+              }
+            }
+          },
+          "b1": {
+            "type": "directory",
+            "contents": {
+              "2775718754a63449416237a808cee1e3f71268": {
                 "type": "file"
               }
             }
@@ -1469,10 +1639,21 @@
               }
             }
           },
+          "c7": {
+            "type": "directory",
+            "contents": {
+              "68aa236b68fab6c430ca5be45a7302266463f1": {
+                "type": "file"
+              }
+            }
+          },
           "c8": {
             "type": "directory",
             "contents": {
               "349ace60cdad0005da2101304fcc14f097a64a": {
+                "type": "file"
+              },
+              "6a5da0b6495f576e4f06fd060b9c61c0d36fe9": {
                 "type": "file"
               },
               "fc73b875419994b7cd633b78b93a9ab5e4d19d": {
@@ -1500,6 +1681,14 @@
             "type": "directory",
             "contents": {
               "3c0c36cbf9cd6cc368ed7edba28827ba0df385": {
+                "type": "file"
+              }
+            }
+          },
+          "ce": {
+            "type": "directory",
+            "contents": {
+              "310a20bcaf82b77335a961160e6228a047374c": {
                 "type": "file"
               }
             }
@@ -1553,6 +1742,9 @@
           "da": {
             "type": "directory",
             "contents": {
+              "2b2e1b998ff640020ba80b641b04c1e3d7757b": {
+                "type": "file"
+              },
               "6f7f6e3ace2234500d4723b379a0b9414d3f75": {
                 "type": "file"
               },
@@ -1568,6 +1760,14 @@
             "type": "directory",
             "contents": {
               "f8ca5ca8db323bde0f0c6fd3b92c4a698f2c8a": {
+                "type": "file"
+              }
+            }
+          },
+          "dd": {
+            "type": "directory",
+            "contents": {
+              "abdb5a5eeef4c82eae49d119e78fedd7205580": {
                 "type": "file"
               }
             }
@@ -1613,6 +1813,9 @@
             "contents": {
               "a35458126616027a43ef79adc5c95d7cffb0a8": {
                 "type": "file"
+              },
+              "f5fa90ef62ea5746a1ffd5a7a2c7ba475c571b": {
+                "type": "file"
               }
             }
           },
@@ -1650,6 +1853,9 @@
               "0088f56f66bdff48db624a9bde2b4bc077dc96": {
                 "type": "file"
               },
+              "42dc9107440568ac2b97cddf86f4a8bd3f8db3": {
+                "type": "file"
+              },
               "9c6ede8667ce7b5558a1b9392b0d30d78eeac7": {
                 "type": "file"
               }
@@ -1658,6 +1864,12 @@
           "e8": {
             "type": "directory",
             "contents": {
+              "2ee442bfe1cb51c86ceb692e35e8e1c7867652": {
+                "type": "file"
+              },
+              "41b1f2528aeba3d966695bc0de58d4140dc6f7": {
+                "type": "file"
+              },
               "8e9f9ae8a73aff6ab30d8caea24c1a4037868f": {
                 "type": "file"
               }
@@ -1678,6 +1890,9 @@
             "type": "directory",
             "contents": {
               "8b9a358ed7febfac5ada73231a9d8cfc731fe6": {
+                "type": "file"
+              },
+              "b078924cfb9525b1844ad8cb99721f4ab0c0bd": {
                 "type": "file"
               },
               "c4f32e617d7330d475503e587fb898e1374391": {
@@ -1701,6 +1916,9 @@
             "contents": {
               "2637259c48ef8ba4e5c373b48170953c46b1b5": {
                 "type": "file"
+              },
+              "d85d43eaa0b6d069857525258262f72b207cf1": {
+                "type": "file"
               }
             }
           },
@@ -1708,6 +1926,12 @@
             "type": "directory",
             "contents": {
               "3e9665decb35be0812d2f11268a7a323ecbe6a": {
+                "type": "file"
+              },
+              "a319dc7141cc2d4ec9163f67f5bc3917ea42c7": {
+                "type": "file"
+              },
+              "b2ad05e846120c21efd40c987198a87df07f18": {
                 "type": "file"
               },
               "cce4b9db05f44398707a98fc65ee26c37067a7": {
@@ -1748,6 +1972,9 @@
               "0c2ef2cb1dd70b67dc9e2a05cb36ef3276bcea": {
                 "type": "file"
               },
+              "0dbe347fdd9598da0403b02c37186115a74e3a": {
+                "type": "file"
+              },
               "521c5a628b8e6a7c816413f156a486a4b8aa21": {
                 "type": "file"
               }
@@ -1774,6 +2001,9 @@
             "contents": {
               "47d883cad5be9b637070ace3166865e3a9d068": {
                 "type": "file"
+              },
+              "ddadb8c89fc2966e0a8b1883c401dadc7e6dd6": {
+                "type": "file"
               }
             }
           },
@@ -1788,6 +2018,14 @@
               }
             }
           },
+          "fc": {
+            "type": "directory",
+            "contents": {
+              "23191e3d19491bb39eae5cba4c94b7d6c27304": {
+                "type": "file"
+              }
+            }
+          },
           "fd": {
             "type": "directory",
             "contents": {
@@ -1798,6 +2036,9 @@
                 "type": "file"
               },
               "7b8e2d45a946678790f2d9e586f08c703d26c6": {
+                "type": "file"
+              },
+              "ba5e0d9fbd27193e4af4c364c5098efab378b0": {
                 "type": "file"
               }
             }
@@ -1877,7 +2118,7 @@
       "Armstrong": {
         "type": "directory",
         "contents": {
-          "Cover.png": {
+          "Armstrong.png": {
             "type": "file"
           },
           "Pages": {
@@ -1911,6 +2152,9 @@
       "BloodWaterProto": {
         "type": "directory",
         "contents": {
+          "Coming Soon.png": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
             "contents": {}
@@ -1923,9 +2167,6 @@
       "CenturionKickStarter": {
         "type": "directory",
         "contents": {
-          "0.jpg": {
-            "type": "file"
-          },
           "Pages": {
             "type": "directory",
             "contents": {
@@ -2224,13 +2465,16 @@
                 "type": "file"
               }
             }
+          },
+          "The Infallible Centurion.jpg": {
+            "type": "file"
           }
         }
       },
       "CenturionOrigin": {
         "type": "directory",
         "contents": {
-          "0.jpg": {
+          "Centurion Origins.jpg": {
             "type": "file"
           },
           "Pages": {
@@ -2267,7 +2511,7 @@
       "FloraOrigin": {
         "type": "directory",
         "contents": {
-          "0.jpg": {
+          "Flora Origins.jpg": {
             "type": "file"
           },
           "Pages": {
@@ -2333,7 +2577,7 @@
               }
             }
           },
-          "Page_1_w_text.tiff": {
+          "The Mild Misadventures of Flyman.tiff": {
             "type": "file"
           }
         }
@@ -2341,7 +2585,7 @@
       "HellhoundOrigin": {
         "type": "directory",
         "contents": {
-          "0.png": {
+          "Hell Hound Origins.png": {
             "type": "file"
           },
           "Pages": {
@@ -2390,9 +2634,6 @@
       "HumanEar": {
         "type": "directory",
         "contents": {
-          "Cover.png": {
-            "type": "file"
-          },
           "Pages": {
             "type": "directory",
             "contents": {
@@ -2412,12 +2653,18 @@
                 "type": "file"
               }
             }
+          },
+          "The Human Ear.png": {
+            "type": "file"
           }
         }
       },
       "KGSProto": {
         "type": "directory",
         "contents": {
+          "Coming Soon.png": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
             "contents": {}
@@ -2427,6 +2674,9 @@
       "KyleMoments": {
         "type": "directory",
         "contents": {
+          "Coming Soon.png": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
             "contents": {}
@@ -2436,6 +2686,9 @@
       "LugnutChristmas": {
         "type": "directory",
         "contents": {
+          "Coming Soon.png": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
             "contents": {}
@@ -2445,7 +2698,7 @@
       "LugnutOrigin": {
         "type": "directory",
         "contents": {
-          "0.jpg": {
+          "Lugnut Origins.jpg": {
             "type": "file"
           },
           "Pages": {
@@ -2485,6 +2738,9 @@
       "MustachioNo.1": {
         "type": "directory",
         "contents": {
+          "Mustachio Issue #1.png": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
             "contents": {
@@ -2567,9 +2823,6 @@
                 "type": "file"
               }
             }
-          },
-          "page_0.png": {
-            "type": "file"
           }
         }
       },
@@ -2616,9 +2869,6 @@
       "SpecterOrigin": {
         "type": "directory",
         "contents": {
-          "0.png": {
-            "type": "file"
-          },
           "Pages": {
             "type": "directory",
             "contents": {
@@ -2647,12 +2897,18 @@
                 "type": "file"
               }
             }
+          },
+          "The Intangible Specter.png": {
+            "type": "file"
           }
         }
       },
       "StarRacerProto": {
         "type": "directory",
         "contents": {
+          "Coming Soon.png": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
             "contents": {}
@@ -2662,6 +2918,9 @@
       "TeccaMana": {
         "type": "directory",
         "contents": {
+          "Coming Soon.png": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
             "contents": {}
