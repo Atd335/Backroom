@@ -15,12 +15,13 @@
             "categoryDescription": "Examples from our 'Comic Prototyping' service.",
             "comics":[
                 "BloodWaterProto",
-                "StarRacerProto"
+                "StarRacerProto",
+                "KGSProto"
             ]
         },
         {
             "category": "graphicNovels",
-            "categoryDescription": "It's not the length of the comic that matters, it's how you draw it.",
+            "categoryDescription": "Some of our long-form comic projects.",
             "comics":[
                 "TeccaMana",
                 "CenturionKickStarter"
@@ -28,7 +29,7 @@
         },
         {
             "category": "mustachio",
-            "categoryDescription": "Comics featuring our titular character Mustachio!",
+            "categoryDescription": "Comics featuring Mustachio!",
             "comics":[
                 "MustachioNo.1",
                 "MustachioOrigin",
@@ -55,7 +56,7 @@
         },
         {
             "category": "originSeries",
-            "categoryDescription": "Enter Description Here.",
+            "categoryDescription": "A series of short, minimal-dialogue comics designed to help us experiment with new character ideas. These may not be cannon.",
             "comics":[
                 "CenturionOrigin",
                 "MustachioOrigin",
@@ -67,7 +68,7 @@
         },
         {
             "category": "misc",
-            "categoryDescription": "Enter Description Here.",
+            "categoryDescription": "How do we categorize these ones?",
             "comics":[
                 "KyleMoments"
             ]

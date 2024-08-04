@@ -228,6 +228,14 @@
               }
             }
           },
+          "32": {
+            "type": "directory",
+            "contents": {
+              "b8c156de3a6bc6d9cc8f53eaa4b5c90b46752a": {
+                "type": "file"
+              }
+            }
+          },
           "33": {
             "type": "directory",
             "contents": {
@@ -743,6 +751,14 @@
               }
             }
           },
+          "0a": {
+            "type": "directory",
+            "contents": {
+              "730c49043acaed61e19324b47c82085307eab1": {
+                "type": "file"
+              }
+            }
+          },
           "0b": {
             "type": "directory",
             "contents": {
@@ -1136,6 +1152,14 @@
               }
             }
           },
+          "9b": {
+            "type": "directory",
+            "contents": {
+              "2cf13f01dc865a009916069dda881a0681fcd7": {
+                "type": "file"
+              }
+            }
+          },
           "9c": {
             "type": "directory",
             "contents": {
@@ -1393,6 +1417,9 @@
           "be": {
             "type": "directory",
             "contents": {
+              "3598b4cd56fdfcc131917677ed23ad9e19e945": {
+                "type": "file"
+              },
               "508124d7b974c1b8451ad82a49c9832d2575ce": {
                 "type": "file"
               },
@@ -1734,6 +1761,14 @@
               }
             }
           },
+          "f6": {
+            "type": "directory",
+            "contents": {
+              "09e1c68c6df2de868547be888e3daba328f08b": {
+                "type": "file"
+              }
+            }
+          },
           "f7": {
             "type": "directory",
             "contents": {
@@ -1842,9 +1877,34 @@
       "Armstrong": {
         "type": "directory",
         "contents": {
+          "Cover.png": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
-            "contents": {}
+            "contents": {
+              "Cover.png": {
+                "type": "file"
+              },
+              "page 1 copy.png": {
+                "type": "file"
+              },
+              "page 2 copy.png": {
+                "type": "file"
+              },
+              "page 3 copy.png": {
+                "type": "file"
+              },
+              "page 4 copy 2.png": {
+                "type": "file"
+              },
+              "page 5 copy.png": {
+                "type": "file"
+              },
+              "page 6 copy.png": {
+                "type": "file"
+              }
+            }
           }
         }
       },
@@ -1863,27 +1923,384 @@
       "CenturionKickStarter": {
         "type": "directory",
         "contents": {
+          "0.jpg": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
-            "contents": {}
+            "contents": {
+              "0.jpg": {
+                "type": "file"
+              },
+              "1.jpg": {
+                "type": "file"
+              },
+              "10.jpg": {
+                "type": "file"
+              },
+              "11.jpg": {
+                "type": "file"
+              },
+              "12.jpg": {
+                "type": "file"
+              },
+              "13.jpg": {
+                "type": "file"
+              },
+              "14.jpg": {
+                "type": "file"
+              },
+              "15.jpg": {
+                "type": "file"
+              },
+              "16.jpg": {
+                "type": "file"
+              },
+              "17.jpg": {
+                "type": "file"
+              },
+              "18.jpg": {
+                "type": "file"
+              },
+              "19.jpg": {
+                "type": "file"
+              },
+              "2.jpg": {
+                "type": "file"
+              },
+              "20.jpg": {
+                "type": "file"
+              },
+              "21.jpg": {
+                "type": "file"
+              },
+              "22.jpg": {
+                "type": "file"
+              },
+              "23.jpg": {
+                "type": "file"
+              },
+              "24.jpg": {
+                "type": "file"
+              },
+              "25.jpg": {
+                "type": "file"
+              },
+              "26.jpg": {
+                "type": "file"
+              },
+              "27.jpg": {
+                "type": "file"
+              },
+              "28.jpg": {
+                "type": "file"
+              },
+              "29.jpg": {
+                "type": "file"
+              },
+              "3.jpg": {
+                "type": "file"
+              },
+              "30.jpg": {
+                "type": "file"
+              },
+              "31.jpg": {
+                "type": "file"
+              },
+              "32.jpg": {
+                "type": "file"
+              },
+              "33.jpg": {
+                "type": "file"
+              },
+              "34.jpg": {
+                "type": "file"
+              },
+              "35.jpg": {
+                "type": "file"
+              },
+              "36.jpg": {
+                "type": "file"
+              },
+              "37.jpg": {
+                "type": "file"
+              },
+              "38.jpg": {
+                "type": "file"
+              },
+              "39.jpg": {
+                "type": "file"
+              },
+              "4.jpg": {
+                "type": "file"
+              },
+              "40.jpg": {
+                "type": "file"
+              },
+              "41.jpg": {
+                "type": "file"
+              },
+              "42.jpg": {
+                "type": "file"
+              },
+              "43.jpg": {
+                "type": "file"
+              },
+              "44.jpg": {
+                "type": "file"
+              },
+              "45.jpg": {
+                "type": "file"
+              },
+              "46.jpg": {
+                "type": "file"
+              },
+              "47.jpg": {
+                "type": "file"
+              },
+              "48.jpg": {
+                "type": "file"
+              },
+              "49.jpg": {
+                "type": "file"
+              },
+              "5.jpg": {
+                "type": "file"
+              },
+              "50.jpg": {
+                "type": "file"
+              },
+              "51.jpg": {
+                "type": "file"
+              },
+              "52.jpg": {
+                "type": "file"
+              },
+              "53.jpg": {
+                "type": "file"
+              },
+              "54.jpg": {
+                "type": "file"
+              },
+              "55.jpg": {
+                "type": "file"
+              },
+              "56.jpg": {
+                "type": "file"
+              },
+              "57.jpg": {
+                "type": "file"
+              },
+              "58.jpg": {
+                "type": "file"
+              },
+              "59.jpg": {
+                "type": "file"
+              },
+              "6.jpg": {
+                "type": "file"
+              },
+              "60.jpg": {
+                "type": "file"
+              },
+              "61.jpg": {
+                "type": "file"
+              },
+              "62.jpg": {
+                "type": "file"
+              },
+              "63.jpg": {
+                "type": "file"
+              },
+              "64.jpg": {
+                "type": "file"
+              },
+              "65.jpg": {
+                "type": "file"
+              },
+              "66.jpg": {
+                "type": "file"
+              },
+              "67.jpg": {
+                "type": "file"
+              },
+              "68.jpg": {
+                "type": "file"
+              },
+              "69.jpg": {
+                "type": "file"
+              },
+              "7.jpg": {
+                "type": "file"
+              },
+              "70.jpg": {
+                "type": "file"
+              },
+              "71.jpg": {
+                "type": "file"
+              },
+              "72.jpg": {
+                "type": "file"
+              },
+              "73.jpg": {
+                "type": "file"
+              },
+              "74.jpg": {
+                "type": "file"
+              },
+              "75.jpg": {
+                "type": "file"
+              },
+              "76.jpg": {
+                "type": "file"
+              },
+              "77.jpg": {
+                "type": "file"
+              },
+              "78.jpg": {
+                "type": "file"
+              },
+              "79.jpg": {
+                "type": "file"
+              },
+              "8.jpg": {
+                "type": "file"
+              },
+              "80.jpg": {
+                "type": "file"
+              },
+              "81.jpg": {
+                "type": "file"
+              },
+              "82.jpg": {
+                "type": "file"
+              },
+              "83.jpg": {
+                "type": "file"
+              },
+              "84.jpg": {
+                "type": "file"
+              },
+              "85.jpg": {
+                "type": "file"
+              },
+              "86.jpg": {
+                "type": "file"
+              },
+              "87.jpg": {
+                "type": "file"
+              },
+              "88.jpg": {
+                "type": "file"
+              },
+              "89.jpg": {
+                "type": "file"
+              },
+              "9.jpg": {
+                "type": "file"
+              },
+              "90.jpg": {
+                "type": "file"
+              },
+              "91.jpg": {
+                "type": "file"
+              },
+              "92.jpg": {
+                "type": "file"
+              },
+              "93.jpg": {
+                "type": "file"
+              },
+              "94.jpg": {
+                "type": "file"
+              },
+              "95.jpg": {
+                "type": "file"
+              },
+              "96.jpg": {
+                "type": "file"
+              },
+              "97.jpg": {
+                "type": "file"
+              }
+            }
           }
         }
       },
       "CenturionOrigin": {
         "type": "directory",
         "contents": {
+          "0.jpg": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
-            "contents": {}
+            "contents": {
+              "0.jpg": {
+                "type": "file"
+              },
+              "1.jpg": {
+                "type": "file"
+              },
+              "2.jpg": {
+                "type": "file"
+              },
+              "3.jpg": {
+                "type": "file"
+              },
+              "4.jpg": {
+                "type": "file"
+              },
+              "5.jpg": {
+                "type": "file"
+              },
+              "6.jpg": {
+                "type": "file"
+              },
+              "7.jpg": {
+                "type": "file"
+              }
+            }
           }
         }
       },
       "FloraOrigin": {
         "type": "directory",
         "contents": {
+          "0.jpg": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
-            "contents": {}
+            "contents": {
+              "0.jpg": {
+                "type": "file"
+              },
+              "1.jpg": {
+                "type": "file"
+              },
+              "2.jpg": {
+                "type": "file"
+              },
+              "3.jpg": {
+                "type": "file"
+              },
+              "4.jpg": {
+                "type": "file"
+              },
+              "5.jpg": {
+                "type": "file"
+              },
+              "6.jpg": {
+                "type": "file"
+              },
+              "7.jpg": {
+                "type": "file"
+              },
+              "8.jpg": {
+                "type": "file"
+              }
+            }
           }
         }
       },
@@ -1892,25 +2309,109 @@
         "contents": {
           "Pages": {
             "type": "directory",
-            "contents": {}
+            "contents": {
+              "Page_1_w_text.tiff": {
+                "type": "file"
+              },
+              "page_2_w_text.tiff": {
+                "type": "file"
+              },
+              "page_3_W_text.tiff": {
+                "type": "file"
+              },
+              "page_4_w_text.tiff": {
+                "type": "file"
+              },
+              "page_5_w_text.tiff": {
+                "type": "file"
+              },
+              "page_6_w_text.tiff": {
+                "type": "file"
+              },
+              "Page_7_w_text.tiff": {
+                "type": "file"
+              }
+            }
+          },
+          "Page_1_w_text.tiff": {
+            "type": "file"
           }
         }
       },
       "HellhoundOrigin": {
         "type": "directory",
         "contents": {
+          "0.png": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
-            "contents": {}
+            "contents": {
+              "0.png": {
+                "type": "file"
+              },
+              "1.png": {
+                "type": "file"
+              },
+              "10.png": {
+                "type": "file"
+              },
+              "11.png": {
+                "type": "file"
+              },
+              "2.png": {
+                "type": "file"
+              },
+              "3.png": {
+                "type": "file"
+              },
+              "4.png": {
+                "type": "file"
+              },
+              "5.png": {
+                "type": "file"
+              },
+              "6.png": {
+                "type": "file"
+              },
+              "7.png": {
+                "type": "file"
+              },
+              "8.png": {
+                "type": "file"
+              },
+              "9.png": {
+                "type": "file"
+              }
+            }
           }
         }
       },
       "HumanEar": {
         "type": "directory",
         "contents": {
+          "Cover.png": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
-            "contents": {}
+            "contents": {
+              "Cover.png": {
+                "type": "file"
+              },
+              "H.E_P1.png": {
+                "type": "file"
+              },
+              "H.E_P2.png": {
+                "type": "file"
+              },
+              "H.E_P3.png": {
+                "type": "file"
+              },
+              "H.E_P4.png": {
+                "type": "file"
+              }
+            }
           }
         }
       },
@@ -1944,9 +2445,40 @@
       "LugnutOrigin": {
         "type": "directory",
         "contents": {
+          "0.jpg": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
-            "contents": {}
+            "contents": {
+              "0.jpg": {
+                "type": "file"
+              },
+              "1.jpg": {
+                "type": "file"
+              },
+              "2.jpg": {
+                "type": "file"
+              },
+              "3.jpg": {
+                "type": "file"
+              },
+              "4.jpg": {
+                "type": "file"
+              },
+              "5.jpg": {
+                "type": "file"
+              },
+              "6.jpg": {
+                "type": "file"
+              },
+              "7.jpg": {
+                "type": "file"
+              },
+              "8.jpg": {
+                "type": "file"
+              }
+            }
           }
         }
       },
@@ -1955,7 +2487,89 @@
         "contents": {
           "Pages": {
             "type": "directory",
-            "contents": {}
+            "contents": {
+              "page_0.png": {
+                "type": "file"
+              },
+              "page_1.png": {
+                "type": "file"
+              },
+              "page_10.png": {
+                "type": "file"
+              },
+              "page_11.png": {
+                "type": "file"
+              },
+              "page_12.png": {
+                "type": "file"
+              },
+              "page_13.png": {
+                "type": "file"
+              },
+              "page_14.png": {
+                "type": "file"
+              },
+              "page_15.png": {
+                "type": "file"
+              },
+              "page_16.png": {
+                "type": "file"
+              },
+              "page_17.png": {
+                "type": "file"
+              },
+              "page_18.png": {
+                "type": "file"
+              },
+              "page_19.png": {
+                "type": "file"
+              },
+              "page_2.png": {
+                "type": "file"
+              },
+              "page_20.png": {
+                "type": "file"
+              },
+              "page_21.png": {
+                "type": "file"
+              },
+              "page_22.png": {
+                "type": "file"
+              },
+              "page_23.png": {
+                "type": "file"
+              },
+              "page_24.png": {
+                "type": "file"
+              },
+              "page_25.png": {
+                "type": "file"
+              },
+              "page_3.png": {
+                "type": "file"
+              },
+              "page_4.png": {
+                "type": "file"
+              },
+              "page_5.png": {
+                "type": "file"
+              },
+              "page_6.png": {
+                "type": "file"
+              },
+              "page_7.png": {
+                "type": "file"
+              },
+              "page_8.png": {
+                "type": "file"
+              },
+              "page_9.png": {
+                "type": "file"
+              }
+            }
+          },
+          "page_0.png": {
+            "type": "file"
           }
         }
       },
@@ -2002,6 +2616,9 @@
       "SpecterOrigin": {
         "type": "directory",
         "contents": {
+          "0.png": {
+            "type": "file"
+          },
           "Pages": {
             "type": "directory",
             "contents": {
@@ -2155,354 +2772,6 @@
   "Web Comic Resources": {
     "type": "directory",
     "contents": {
-      "Centurion_KS": {
-        "type": "directory",
-        "contents": {
-          "0.jpg": {
-            "type": "file"
-          },
-          "1.jpg": {
-            "type": "file"
-          },
-          "10.jpg": {
-            "type": "file"
-          },
-          "11.jpg": {
-            "type": "file"
-          },
-          "12.jpg": {
-            "type": "file"
-          },
-          "13.jpg": {
-            "type": "file"
-          },
-          "14.jpg": {
-            "type": "file"
-          },
-          "15.jpg": {
-            "type": "file"
-          },
-          "16.jpg": {
-            "type": "file"
-          },
-          "17.jpg": {
-            "type": "file"
-          },
-          "18.jpg": {
-            "type": "file"
-          },
-          "19.jpg": {
-            "type": "file"
-          },
-          "2.jpg": {
-            "type": "file"
-          },
-          "20.jpg": {
-            "type": "file"
-          },
-          "21.jpg": {
-            "type": "file"
-          },
-          "22.jpg": {
-            "type": "file"
-          },
-          "23.jpg": {
-            "type": "file"
-          },
-          "24.jpg": {
-            "type": "file"
-          },
-          "25.jpg": {
-            "type": "file"
-          },
-          "26.jpg": {
-            "type": "file"
-          },
-          "27.jpg": {
-            "type": "file"
-          },
-          "28.jpg": {
-            "type": "file"
-          },
-          "29.jpg": {
-            "type": "file"
-          },
-          "3.jpg": {
-            "type": "file"
-          },
-          "30.jpg": {
-            "type": "file"
-          },
-          "31.jpg": {
-            "type": "file"
-          },
-          "32.jpg": {
-            "type": "file"
-          },
-          "33.jpg": {
-            "type": "file"
-          },
-          "34.jpg": {
-            "type": "file"
-          },
-          "35.jpg": {
-            "type": "file"
-          },
-          "36.jpg": {
-            "type": "file"
-          },
-          "37.jpg": {
-            "type": "file"
-          },
-          "38.jpg": {
-            "type": "file"
-          },
-          "39.jpg": {
-            "type": "file"
-          },
-          "4.jpg": {
-            "type": "file"
-          },
-          "40.jpg": {
-            "type": "file"
-          },
-          "41.jpg": {
-            "type": "file"
-          },
-          "42.jpg": {
-            "type": "file"
-          },
-          "43.jpg": {
-            "type": "file"
-          },
-          "44.jpg": {
-            "type": "file"
-          },
-          "45.jpg": {
-            "type": "file"
-          },
-          "46.jpg": {
-            "type": "file"
-          },
-          "47.jpg": {
-            "type": "file"
-          },
-          "48.jpg": {
-            "type": "file"
-          },
-          "49.jpg": {
-            "type": "file"
-          },
-          "5.jpg": {
-            "type": "file"
-          },
-          "50.jpg": {
-            "type": "file"
-          },
-          "51.jpg": {
-            "type": "file"
-          },
-          "52.jpg": {
-            "type": "file"
-          },
-          "53.jpg": {
-            "type": "file"
-          },
-          "54.jpg": {
-            "type": "file"
-          },
-          "55.jpg": {
-            "type": "file"
-          },
-          "56.jpg": {
-            "type": "file"
-          },
-          "57.jpg": {
-            "type": "file"
-          },
-          "58.jpg": {
-            "type": "file"
-          },
-          "59.jpg": {
-            "type": "file"
-          },
-          "6.jpg": {
-            "type": "file"
-          },
-          "60.jpg": {
-            "type": "file"
-          },
-          "61.jpg": {
-            "type": "file"
-          },
-          "62.jpg": {
-            "type": "file"
-          },
-          "63.jpg": {
-            "type": "file"
-          },
-          "64.jpg": {
-            "type": "file"
-          },
-          "65.jpg": {
-            "type": "file"
-          },
-          "66.jpg": {
-            "type": "file"
-          },
-          "67.jpg": {
-            "type": "file"
-          },
-          "68.jpg": {
-            "type": "file"
-          },
-          "69.jpg": {
-            "type": "file"
-          },
-          "7.jpg": {
-            "type": "file"
-          },
-          "70.jpg": {
-            "type": "file"
-          },
-          "71.jpg": {
-            "type": "file"
-          },
-          "72.jpg": {
-            "type": "file"
-          },
-          "73.jpg": {
-            "type": "file"
-          },
-          "74.jpg": {
-            "type": "file"
-          },
-          "75.jpg": {
-            "type": "file"
-          },
-          "76.jpg": {
-            "type": "file"
-          },
-          "77.jpg": {
-            "type": "file"
-          },
-          "78.jpg": {
-            "type": "file"
-          },
-          "79.jpg": {
-            "type": "file"
-          },
-          "8.jpg": {
-            "type": "file"
-          },
-          "80.jpg": {
-            "type": "file"
-          },
-          "81.jpg": {
-            "type": "file"
-          },
-          "82.jpg": {
-            "type": "file"
-          },
-          "83.jpg": {
-            "type": "file"
-          },
-          "84.jpg": {
-            "type": "file"
-          },
-          "85.jpg": {
-            "type": "file"
-          },
-          "86.jpg": {
-            "type": "file"
-          },
-          "87.jpg": {
-            "type": "file"
-          },
-          "88.jpg": {
-            "type": "file"
-          },
-          "89.jpg": {
-            "type": "file"
-          },
-          "9.jpg": {
-            "type": "file"
-          },
-          "90.jpg": {
-            "type": "file"
-          },
-          "91.jpg": {
-            "type": "file"
-          },
-          "92.jpg": {
-            "type": "file"
-          },
-          "93.jpg": {
-            "type": "file"
-          },
-          "94.jpg": {
-            "type": "file"
-          },
-          "95.jpg": {
-            "type": "file"
-          },
-          "96.jpg": {
-            "type": "file"
-          },
-          "97.jpg": {
-            "type": "file"
-          }
-        }
-      },
-      "Fake Comic": {
-        "type": "directory",
-        "contents": {
-          "page_8.png": {
-            "type": "file"
-          }
-        }
-      },
-      "Hellhound": {
-        "type": "directory",
-        "contents": {
-          "0.png": {
-            "type": "file"
-          },
-          "1.png": {
-            "type": "file"
-          },
-          "10.png": {
-            "type": "file"
-          },
-          "11.png": {
-            "type": "file"
-          },
-          "2.png": {
-            "type": "file"
-          },
-          "3.png": {
-            "type": "file"
-          },
-          "4.png": {
-            "type": "file"
-          },
-          "5.png": {
-            "type": "file"
-          },
-          "6.png": {
-            "type": "file"
-          },
-          "7.png": {
-            "type": "file"
-          },
-          "8.png": {
-            "type": "file"
-          },
-          "9.png": {
-            "type": "file"
-          }
-        }
-      },
       "Kyle_Moments": {
         "type": "directory",
         "contents": {
@@ -2558,215 +2827,6 @@
             "type": "file"
           },
           "9.jpg": {
-            "type": "file"
-          }
-        }
-      },
-      "Mustachio_1": {
-        "type": "directory",
-        "contents": {
-          "page_0.png": {
-            "type": "file"
-          },
-          "page_1.png": {
-            "type": "file"
-          },
-          "page_10.png": {
-            "type": "file"
-          },
-          "page_11.png": {
-            "type": "file"
-          },
-          "page_12.png": {
-            "type": "file"
-          },
-          "page_13.png": {
-            "type": "file"
-          },
-          "page_14.png": {
-            "type": "file"
-          },
-          "page_15.png": {
-            "type": "file"
-          },
-          "page_16.png": {
-            "type": "file"
-          },
-          "page_17.png": {
-            "type": "file"
-          },
-          "page_18.png": {
-            "type": "file"
-          },
-          "page_19.png": {
-            "type": "file"
-          },
-          "page_2.png": {
-            "type": "file"
-          },
-          "page_20.png": {
-            "type": "file"
-          },
-          "page_21.png": {
-            "type": "file"
-          },
-          "page_22.png": {
-            "type": "file"
-          },
-          "page_23.png": {
-            "type": "file"
-          },
-          "page_24.png": {
-            "type": "file"
-          },
-          "page_25.png": {
-            "type": "file"
-          },
-          "page_3.png": {
-            "type": "file"
-          },
-          "page_4.png": {
-            "type": "file"
-          },
-          "page_5.png": {
-            "type": "file"
-          },
-          "page_6.png": {
-            "type": "file"
-          },
-          "page_7.png": {
-            "type": "file"
-          },
-          "page_8.png": {
-            "type": "file"
-          },
-          "page_9.png": {
-            "type": "file"
-          }
-        }
-      },
-      "Origins_Centurion": {
-        "type": "directory",
-        "contents": {
-          "0.jpg": {
-            "type": "file"
-          },
-          "1.jpg": {
-            "type": "file"
-          },
-          "2.jpg": {
-            "type": "file"
-          },
-          "3.jpg": {
-            "type": "file"
-          },
-          "4.jpg": {
-            "type": "file"
-          },
-          "5.jpg": {
-            "type": "file"
-          },
-          "6.jpg": {
-            "type": "file"
-          },
-          "7.jpg": {
-            "type": "file"
-          }
-        }
-      },
-      "Origins_Flora": {
-        "type": "directory",
-        "contents": {
-          "0.jpg": {
-            "type": "file"
-          },
-          "1.jpg": {
-            "type": "file"
-          },
-          "2.jpg": {
-            "type": "file"
-          },
-          "3.jpg": {
-            "type": "file"
-          },
-          "4.jpg": {
-            "type": "file"
-          },
-          "5.jpg": {
-            "type": "file"
-          },
-          "6.jpg": {
-            "type": "file"
-          },
-          "7.jpg": {
-            "type": "file"
-          },
-          "8.jpg": {
-            "type": "file"
-          }
-        }
-      },
-      "Origins_Lugnut": {
-        "type": "directory",
-        "contents": {
-          "0.jpg": {
-            "type": "file"
-          },
-          "1.jpg": {
-            "type": "file"
-          },
-          "2.jpg": {
-            "type": "file"
-          },
-          "3.jpg": {
-            "type": "file"
-          },
-          "4.jpg": {
-            "type": "file"
-          },
-          "5.jpg": {
-            "type": "file"
-          },
-          "6.jpg": {
-            "type": "file"
-          },
-          "7.jpg": {
-            "type": "file"
-          },
-          "8.jpg": {
-            "type": "file"
-          }
-        }
-      },
-      "Origins_Mustachio": {
-        "type": "directory",
-        "contents": {}
-      },
-      "Origins_Specter": {
-        "type": "directory",
-        "contents": {
-          "0.png": {
-            "type": "file"
-          },
-          "1.png": {
-            "type": "file"
-          },
-          "2.png": {
-            "type": "file"
-          },
-          "3.png": {
-            "type": "file"
-          },
-          "4.png": {
-            "type": "file"
-          },
-          "5.png": {
-            "type": "file"
-          },
-          "6.png": {
-            "type": "file"
-          },
-          "7.png": {
             "type": "file"
           }
         }
