@@ -109,6 +109,9 @@
           "13": {
             "type": "directory",
             "contents": {
+              "777a31f2bafd899d552aba9b5250a57fa43a36": {
+                "type": "file"
+              },
               "c5ae9495f8bc1891402e7dda4c5f83c35ef848": {
                 "type": "file"
               }
@@ -469,6 +472,9 @@
           "60": {
             "type": "directory",
             "contents": {
+              "703427c8280cb7b000dc334c5619d32354bb8f": {
+                "type": "file"
+              },
               "dd8ae7bb1de10e316410055039b1f2e57b0b6b": {
                 "type": "file"
               }
@@ -853,6 +859,9 @@
           "07": {
             "type": "directory",
             "contents": {
+              "0caad50b084b0f7250f07414eb86e63f84c0b9": {
+                "type": "file"
+              },
               "1d3e0c3a60d983cd540eeacf35922b15b8e0db": {
                 "type": "file"
               },
@@ -1379,6 +1388,9 @@
               },
               "aa2dccce165f33e9a2b64e556600d1a293de4b": {
                 "type": "file"
+              },
+              "afb00fc69b699f4325fd2366fcadbec07d8af7": {
+                "type": "file"
               }
             }
           },
@@ -1450,6 +1462,14 @@
               }
             }
           },
+          "ab": {
+            "type": "directory",
+            "contents": {
+              "2659a3ae589e84220440461fd1d4501d963620": {
+                "type": "file"
+              }
+            }
+          },
           "ac": {
             "type": "directory",
             "contents": {
@@ -1505,12 +1525,18 @@
               },
               "df484c9dcec1cab270aa797b08f3b891f40346": {
                 "type": "file"
+              },
+              "f11038e52fa33d24b72145d6928e378f062787": {
+                "type": "file"
               }
             }
           },
           "b5": {
             "type": "directory",
             "contents": {
+              "3aaae7267430dceaf111ea74497073f67721f2": {
+                "type": "file"
+              },
               "701d0dea6487d391403ba24ac7b4b035c2afa7": {
                 "type": "file"
               }
@@ -1593,6 +1619,9 @@
               "508124d7b974c1b8451ad82a49c9832d2575ce": {
                 "type": "file"
               },
+              "a1842a117f8ad7580496c879f404fd9d154faf": {
+                "type": "file"
+              },
               "adcbaa2f04138029e719bf230858f4384fd4c0": {
                 "type": "file"
               },
@@ -1635,6 +1664,9 @@
             "type": "directory",
             "contents": {
               "578fbb222f770a5d34f1c03e05c32f3e35fb92": {
+                "type": "file"
+              },
+              "f5a8bc6b40ae89766abd053d11d4e041bc7a2e": {
                 "type": "file"
               }
             }
@@ -1840,6 +1872,9 @@
                 "type": "file"
               },
               "848284ffd73c53579168e6b1f20a69136504db": {
+                "type": "file"
+              },
+              "a5ad1ad548ccc3145d222db39bd437bc433665": {
                 "type": "file"
               },
               "fcf8346d3b4c8cba50b91914c395e556c5e03e": {
@@ -2554,30 +2589,30 @@
           "Pages": {
             "type": "directory",
             "contents": {
-              "Page_1_w_text.tiff": {
+              "Page_1_w_text.png": {
                 "type": "file"
               },
-              "page_2_w_text.tiff": {
+              "page_2_w_text.png": {
                 "type": "file"
               },
-              "page_3_W_text.tiff": {
+              "page_3_W_text.png": {
                 "type": "file"
               },
-              "page_4_w_text.tiff": {
+              "page_4_w_text.png": {
                 "type": "file"
               },
-              "page_5_w_text.tiff": {
+              "page_5_w_text.png": {
                 "type": "file"
               },
-              "page_6_w_text.tiff": {
+              "page_6_w_text.png": {
                 "type": "file"
               },
-              "Page_7_w_text.tiff": {
+              "Page_7_w_text.png": {
                 "type": "file"
               }
             }
           },
-          "The Mild Misadventures of Flyman.tiff": {
+          "The Mild Misadventures of Flyman.png": {
             "type": "file"
           }
         }
