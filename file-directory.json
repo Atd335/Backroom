@@ -943,6 +943,9 @@
           "0b": {
             "type": "directory",
             "contents": {
+              "483fdf8ec0c9fbf98af8934a8e2f3ecafaca16": {
+                "type": "file"
+              },
               "6bc321f2084204b5f32aa00a48e5c74795951e": {
                 "type": "file"
               }
@@ -1081,6 +1084,9 @@
           "3c": {
             "type": "directory",
             "contents": {
+              "2adc724e800afd1e3acf654b7cfc81afbfa184": {
+                "type": "file"
+              },
               "9c1cfef31c9cc7afb6bec441e39550d9f687be": {
                 "type": "file"
               }
@@ -1147,6 +1153,9 @@
           "4e": {
             "type": "directory",
             "contents": {
+              "30241832dd5bc56b8877656775f6615fa00f7b": {
+                "type": "file"
+              },
               "7267171256fd992a889092b9064b3650d8d762": {
                 "type": "file"
               },
@@ -2884,7 +2893,7 @@
       "MustachioNo.1": {
         "type": "directory",
         "contents": {
-          "Mustachio Issue #1.png": {
+          "Mustachio Issue 1.png": {
             "type": "file"
           },
           "Pages": {
