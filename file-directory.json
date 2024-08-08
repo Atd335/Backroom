@@ -139,6 +139,9 @@
           "16": {
             "type": "directory",
             "contents": {
+              "56d04bb651d0f332af269d3da3e6a7df0b4b3f": {
+                "type": "file"
+              },
               "8a3e016fc2645c17ed740aad443f3ec911a60f": {
                 "type": "file"
               }
@@ -355,6 +358,14 @@
               }
             }
           },
+          "40": {
+            "type": "directory",
+            "contents": {
+              "049b92181743f7a4e67405eb4269e59b722875": {
+                "type": "file"
+              }
+            }
+          },
           "41": {
             "type": "directory",
             "contents": {
@@ -379,6 +390,9 @@
                 "type": "file"
               },
               "dc50a2158d473fb2e8de559f3288e68f7108e8": {
+                "type": "file"
+              },
+              "f53df58187468a123bab13d6248c6320bc14cd": {
                 "type": "file"
               }
             }
@@ -1269,7 +1283,18 @@
               "444197e61607c9facae79e5a8824bc4fc91c22": {
                 "type": "file"
               },
+              "4d90433cb634d74e0e8bdee96168669c0c3645": {
+                "type": "file"
+              },
               "ca0aa4419b44ba1f174ee3c7f5e470f94a591b": {
+                "type": "file"
+              }
+            }
+          },
+          "6f": {
+            "type": "directory",
+            "contents": {
+              "ead7ad9ea11ac793c935d4c964afec012f115d": {
                 "type": "file"
               }
             }
@@ -1589,6 +1614,9 @@
               "8cb277864ee4158456a0e7129023e67cde3107": {
                 "type": "file"
               },
+              "b8e9c7cf7b48ca755ceb3b2e81fe91a9a7f670": {
+                "type": "file"
+              },
               "ca4e37716ca556ca25850e2ace0c832276280a": {
                 "type": "file"
               }
@@ -1831,6 +1859,14 @@
               }
             }
           },
+          "cf": {
+            "type": "directory",
+            "contents": {
+              "b0714646359a554f62be671cb122696d5b1e5a": {
+                "type": "file"
+              }
+            }
+          },
           "d1": {
             "type": "directory",
             "contents": {
@@ -1924,6 +1960,9 @@
           "de": {
             "type": "directory",
             "contents": {
+              "890aefb4c1b32de366789d76911ecb129a34a4": {
+                "type": "file"
+              },
               "95e0850adb6ccdd8cd600fc2f95290d2595ef8": {
                 "type": "file"
               }
@@ -2034,6 +2073,14 @@
                 "type": "file"
               },
               "eeeed09853c0426a36486ef49e4803fb7f953a": {
+                "type": "file"
+              }
+            }
+          },
+          "ea": {
+            "type": "directory",
+            "contents": {
+              "932dcc885e9c9817a509330017c4f17cfa4444": {
                 "type": "file"
               }
             }
@@ -3090,9 +3137,20 @@
   "README.md": {
     "type": "file"
   },
+  "UsefulFiles": {
+    "type": "directory",
+    "contents": {
+      "dictionaries.json": {
+        "type": "file"
+      }
+    }
+  },
   "Visual Assets": {
     "type": "directory",
     "contents": {
+      "BackgroundTexture.png": {
+        "type": "file"
+      },
       "BR LOGO BLUE.png": {
         "type": "file"
       },
