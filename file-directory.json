@@ -529,6 +529,9 @@
           "60": {
             "type": "directory",
             "contents": {
+              "6b6a4b38a6a2d1f88f86056d9d84c38d3bf6b0": {
+                "type": "file"
+              },
               "703427c8280cb7b000dc334c5619d32354bb8f": {
                 "type": "file"
               },
@@ -805,6 +808,14 @@
               }
             }
           },
+          "90": {
+            "type": "directory",
+            "contents": {
+              "38a19e865cb4aa84ca9912d79ae2585f5aefbf": {
+                "type": "file"
+              }
+            }
+          },
           "92": {
             "type": "directory",
             "contents": {
@@ -864,6 +875,9 @@
             "type": "directory",
             "contents": {
               "0374456537a0adb1f0eba01bf39a70216576f9": {
+                "type": "file"
+              },
+              "da3419960d9af05a36b6e3b63ecea8efa96b30": {
                 "type": "file"
               }
             }
@@ -987,6 +1001,9 @@
             "type": "directory",
             "contents": {
               "5cf8e4c56215f60c9b64387f94a3a54febc76f": {
+                "type": "file"
+              },
+              "854048f5fe038e9d51658a0f585808a7185c21": {
                 "type": "file"
               },
               "d7fbb6b0de09420dca76e1b19a5f4dacc8cfa9": {
@@ -1478,6 +1495,14 @@
               }
             }
           },
+          "9d": {
+            "type": "directory",
+            "contents": {
+              "12b9417407dd1a252048341a1b07fe29fb4cd0": {
+                "type": "file"
+              }
+            }
+          },
           "9e": {
             "type": "directory",
             "contents": {
@@ -1824,6 +1849,9 @@
             "type": "directory",
             "contents": {
               "578fbb222f770a5d34f1c03e05c32f3e35fb92": {
+                "type": "file"
+              },
+              "67708ad1be605dfca70c89f9b4ca5241f900cf": {
                 "type": "file"
               },
               "f5a8bc6b40ae89766abd053d11d4e041bc7a2e": {
@@ -3245,6 +3273,14 @@
         "type": "directory",
         "contents": {
           "Flora.png": {
+            "type": "file"
+          }
+        }
+      },
+      "Homepage": {
+        "type": "directory",
+        "contents": {
+          "Header Overlay.png": {
             "type": "file"
           }
         }
