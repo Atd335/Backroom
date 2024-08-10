@@ -686,6 +686,14 @@
               }
             }
           },
+          "77": {
+            "type": "directory",
+            "contents": {
+              "91408cca89cdca61ea8e9ff0cc8c202a451976": {
+                "type": "file"
+              }
+            }
+          },
           "78": {
             "type": "directory",
             "contents": {
@@ -787,6 +795,9 @@
             "type": "directory",
             "contents": {
               "6c65dd397ea1bf0937d8678665fde8c3e6636b": {
+                "type": "file"
+              },
+              "824db37630dbfc5a92d7b31f01c5adee8c233f": {
                 "type": "file"
               },
               "c86437f9de4098c5a2f2081385d2c879d00d07": {
@@ -1066,6 +1077,9 @@
           "1d": {
             "type": "directory",
             "contents": {
+              "a98ee121aa2c4203c609702a9d34b220274263": {
+                "type": "file"
+              },
               "bbcbc50fff80823c456270e1cb6de877961a43": {
                 "type": "file"
               }
@@ -1160,9 +1174,20 @@
               }
             }
           },
+          "3e": {
+            "type": "directory",
+            "contents": {
+              "62c0220a62d3c3a0188082e7886f9fe73049a3": {
+                "type": "file"
+              }
+            }
+          },
           "3f": {
             "type": "directory",
             "contents": {
+              "1a591c67a7632a7d73c4b8162e736c417030db": {
+                "type": "file"
+              },
               "676dd1bcb252db26ecc187fa3192bcfba815f3": {
                 "type": "file"
               },
@@ -2182,6 +2207,9 @@
           "ee": {
             "type": "directory",
             "contents": {
+              "0a9664273d8aa5683d9569d0bbc5c8687ba273": {
+                "type": "file"
+              },
               "2637259c48ef8ba4e5c373b48170953c46b1b5": {
                 "type": "file"
               },
@@ -3280,6 +3308,9 @@
       "Homepage": {
         "type": "directory",
         "contents": {
+          "Backroom Vertical Logo.png": {
+            "type": "file"
+          },
           "Header Overlay.png": {
             "type": "file"
           }
