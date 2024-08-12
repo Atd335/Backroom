@@ -287,6 +287,9 @@
           "32": {
             "type": "directory",
             "contents": {
+              "0ad6f91c696ad4e68ce48cc68eab34214c57c1": {
+                "type": "file"
+              },
               "b8c156de3a6bc6d9cc8f53eaa4b5c90b46752a": {
                 "type": "file"
               }
@@ -1120,6 +1123,9 @@
           "2e": {
             "type": "directory",
             "contents": {
+              "0b40cf9ad0175111daca89bcd3f0cf12dfe0fd": {
+                "type": "file"
+              },
               "7512f1969f172ad5541b5847ce506795ea8715": {
                 "type": "file"
               },
@@ -1275,6 +1281,9 @@
             "type": "directory",
             "contents": {
               "0e138c2ee362b72784f74f9d15d11517046c5c": {
+                "type": "file"
+              },
+              "7a1970cca3a618568414eee0071d46f118ce4c": {
                 "type": "file"
               }
             }
@@ -1649,6 +1658,9 @@
           "a9": {
             "type": "directory",
             "contents": {
+              "35f42cbd873bc509dc323af34effd31e4a1df6": {
+                "type": "file"
+              },
               "6ca32679955ef2853460270b2cc49f93f26211": {
                 "type": "file"
               },
@@ -2053,6 +2065,9 @@
               },
               "95e0850adb6ccdd8cd600fc2f95290d2595ef8": {
                 "type": "file"
+              },
+              "e4c9dd4f9ab85271bdc8e892d2432b8dfe2188": {
+                "type": "file"
               }
             }
           },
@@ -2349,6 +2364,9 @@
             "type": "directory",
             "contents": {
               "04bed72f8c4728c9b6aafd0410518a00075308": {
+                "type": "file"
+              },
+              "75dcd6ff7c955816e208232edc7cecc7d4bc40": {
                 "type": "file"
               }
             }
@@ -3360,6 +3378,9 @@
             "type": "file"
           }
         }
+      },
+      "placeholder_header.png": {
+        "type": "file"
       },
       "placeholder_thumbnail.png": {
         "type": "file"
